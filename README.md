@@ -1,5 +1,4 @@
 # PRODIGY_CS_01
-##This Task contains the code to create a python function for Caesar Cipher that meant to encrypt and decrypt the user input. 
 # Caesar Cipher Implementation in Python
 
 This repository contains a Python implementation of the Caesar Cipher, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions down the alphabet.
