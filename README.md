@@ -19,7 +19,7 @@ This repository contains a Python implementation of the Caesar Cipher, a simple 
 ### Installation
 
 1. Clone the repository:
-    git clone https://github.com/your-username/caesar-cipher.git
+   https://github.com/Narendarkumar98/PRODIGY_CS_01.git
 
 
 ### Usage
